@@ -3,7 +3,7 @@
     "name": "Adeyemi Muaz",
     "occupation": "Strong Tech Lover",
     "description": "I eat, sleep and breathe Tech",
-    "image": "profilepic.jpg",
+    "image": "profilepic (2).jpg",
     "bio": "Hi there! I am Muaz! I'm a confident and naturally curious web developer. I'm constantly improving my skill set by building fast, scalable web apps using a variety of technologies, including Next.js, React, Tailwind CSS, and more. I'm always eager to learn new technologies and I'm confident that I can quickly pick up any new tools or frameworks that any project requires. I'm passionate about creating user-friendly and visually appealing web experiences. I'm also a big advocate for open source projects and I contribute to various projects whenever I can. . I love coding, learning new technologies, and collaborating with others. I'm also a fan of reading and writing articles about web development and technology. I believe that sharing knowledge is essential for the growth of the community, and I enjoy helping others learn and grow. Outside of work, I enjoy spending time with my friends and family, traveling, and playing video games.",
     "contactmessage": "Get in touch with me",
     "email": "adeyemimuaz1@gmail.com",
@@ -13,8 +13,8 @@
       "city": "Nigeria",
       "state": "Lagos"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://maaazi-portfolio.vercel.app/",
+    "resumedownload": "Copy of My resume .pdf",
     "social": [
       {
         "name": "facebook",
@@ -102,22 +102,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Chat with Pdf",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "Screenshot (430).png",
+        "url": "https://chat-with-pdf-ibcd.vercel.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Nexstack",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "Screenshot (434).png",
+        "url": "https://nexstack-ivory.vercel.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "My Portfolio",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "Screenshot (432).png",
+        "url": "https://maaazi-portfolio.vercel.app/"
+      },
+      {
+        "title": "DefineHub",
+        "category": "",
+        "image": "Screenshot (431).png",
+        "url": "https://define-hub.vercel.app/"
       }
     ]
   }
