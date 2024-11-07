@@ -1,45 +1,44 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Adeyemi Muaz",
+    "occupation": "Strong Tech Lover",
+    "description": "I eat, sleep and breathe Tech",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Muaz! I'm a confident and naturally curious web developer. I'm constantly improving my skill set by building fast, scalable web apps using a variety of technologies, including Next.js, React, Tailwind CSS, and more. I'm always eager to learn new technologies and I'm confident that I can quickly pick up any new tools or frameworks that any project requires. I'm passionate about creating user-friendly and visually appealing web experiences. I'm also a big advocate for open source projects and I contribute to various projects whenever I can. . I love coding, learning new technologies, and collaborating with others. I'm also a fan of reading and writing articles about web development and technology. I believe that sharing knowledge is essential for the growth of the community, and I enjoy helping others learn and grow. Outside of work, I enjoy spending time with my friends and family, traveling, and playing video games.",
+    "contactmessage": "Get in touch with me",
+    "email": "adeyemimuaz1@gmail.com",
+    "phone": "+234 7084605347",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "12, Itire Road",
+      "city": "Nigeria",
+      "state": "Lagos"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://web.facebook.com/profile.php?id=100085837792960",
         "className": "fa fa-facebook"
       },
       {
+        "name": "Twitter",
+        "url": "https://x.com/originalMaaazi",
+        "className": "fa fa-twitter"
+      },
+      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/adeyemi-muaz-ayomide-91459724a/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/originalmaaazi/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/maaazi643",
         "className": "fa fa-github"
       }
     ]
@@ -48,28 +47,23 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
-      }
-    ],
-    "work": [
-      {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "school": "University of Lagos - Nigeria",
+        "degree": "Bachelor's Degree, Civil and environmental engineering",
+        "ProposedGraduationDate": "August 2026"
       }
     ],
     "skills": [
       {
+        "name": "NextJs",
+        "level": "99%"
+      },
+      {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "99%"
       },
       {
         "name": "Python",
-        "level": "85%"
+        "level": "55%"
       },
       {
         "name": "Git",
@@ -77,11 +71,31 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "90%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "90%"
+      },
+      {
+        "name": "TailwindCSS",
+        "level": "90%"
+      },
+      {
+        "name": "Typescript",
+        "level": "90%"
+      },
+      {
+        "name": "Redux and RTK",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "80%"
+      },
+      {
+        "name": "Supabase",
+        "level": "80%"
       }
     ]
   },
@@ -104,18 +118,6 @@
         "category": "",
         "image": "linkedin.jpg",
         "url": "https://youtu.be/QaYts9sPmcY"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
       }
     ]
   }
